@@ -41,7 +41,7 @@ class Config(object):
 
     # TG Ids
     LOG_CHANNEL = -1007119867241
-    OWNER_ID = 1288398723
+    OWNER_ID = 952345950
 
     # bot username without @
     BOT_USERNAME = "AdvanceUrlUploaderBot"
